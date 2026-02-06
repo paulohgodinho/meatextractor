@@ -1,7 +1,7 @@
 # meatextractor
 Extract content from webpages! Perfect for bookmarking tools and AI ;)
 
-Clean text content, metadata, and primary images from any webpage using advanced scraping techniques.
+Clean text content, metadata, and primary images from any webpage using [Metascraper](https://github.com/microlinkhq/metascraper), [Readability](https://github.com/mozilla/readability), [DOMPurify](https://github.com/cure53/DOMPurify) and custom logic.
 
 *Disclaimer: This project was vibe coded.*
 
